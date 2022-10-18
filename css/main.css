@@ -187,6 +187,7 @@ body {
   margin-right: 66px;
   color: rgba(250, 250, 250, 1);
 }
+/* main section */
 .main-section-platform-container {
   height: 1184px;
   width: 100%;
@@ -215,4 +216,84 @@ body {
   margin-left: 217px;
   margin-top: 16px;
   margin-bottom: 60px;
+}
+.main-section-platform-mainimg {
+  height: 680px;
+  width: 584px;
+  object-fit: contain;
+}
+.main-section-platform-subdetail,
+.main-section-platform-subdetail2 {
+  height: 140px;
+  width: 265px;
+  border-radius: 10px;
+}
+.main-section-platform-subdetail {
+  background-color: rgba(19, 19, 19, 1);
+  position: absolute;
+  top: 2041px;
+}
+.main-section-platform-subdetail2 {
+  position: absolute;
+  background-color: #ffffff;
+  top: 2205px;
+  left: 395px;
+}
+.main-section-platform-subdetail-1,
+.main-section-platform-subdetail-2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 16px;
+}
+.main-section-platform-subdetail-1text,
+.main-section-platform-subdetail-1texti {
+  height: 24px;
+  width: 148px;
+  font-style: italic;
+  font-weight: 400px;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 19.2px;
+}
+.main-section-platform-subdetail-1texti {
+  color: rgba(19, 19, 19, 0.6);
+}
+.main-section-platform-subdetail-content1,
+.main-section-platform-subdetail-content1i {
+  height: 32px;
+  width: 116px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.8px;
+  margin-left: 20px;
+  margin-top: 12px;
+}
+.main-section-platform-subdetail-content1 {
+  color: rgba(255, 255, 255, 1);
+}
+.main-section-platform-subdetail-content1i {
+  color: rgba(19, 19, 19, 1);
+}
+.main-section-platform-subdetail-content2,
+.main-section-platform-subdetail-content2i {
+  height: 24px;
+  width: 148px;
+  font-size: 12px;
+  font-weight: 400;
+
+  font-style: italic;
+  line-height: 14.4px;
+  margin-left: 20px;
+  margin-top: 16px;
+}
+.main-section-platform-subdetail-content2 {
+  color: rgba(255, 255, 255, 1);
+}
+
+.main-section-platform-subdetail-content2i {
+  color: rgba(19, 19, 19, 1);
+}
+
+.special-text,
+.special-text2 {
+  color: rgba(7, 161, 13, 1);
 }
