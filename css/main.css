@@ -88,3 +88,14 @@ body {
   top: 190px;
   object-fit: contain;
 }
+/* hero section */
+.hero-section {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.hero-section-manageSales-container {
+  height: 392px;
+  width: 812px;
+  text-align: center;
+}
