@@ -134,3 +134,31 @@ body {
   color: rgba(255, 255, 255, 1);
   background-color: rgba(19, 19, 19, 1);
 }
+.hero-section-manageSales-img1 {
+  position: absolute;
+  height: 36px;
+  width: 36px;
+  left: 110px;
+  top: 296px;
+}
+.hero-section-manageSales-img2 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 214px;
+  top: 463px;
+}
+.hero-section-manageSales-img3 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 781px;
+  top: 472px;
+}
+.hero-section-manageSales-img4 {
+  position: absolute;
+  height: 46px;
+  width: 46px;
+  left: 943px;
+  top: 292px;
+}
