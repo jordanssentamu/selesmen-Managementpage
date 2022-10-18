@@ -36,3 +36,9 @@ body {
   line-height: 38.4px;
   color: rgba(19, 19, 19, 1);
 }
+.navigation-section-list {
+  height: 20px;
+  width: 447px;
+  display: flex;
+  list-style: none;
+}
