@@ -165,9 +165,25 @@ body {
 .hero-section-manageSales-mainimg {
   height: 688px;
   width: 1088px;
-  /* left: 212px;
-top: 648px;
-border-radius: 0px; */
   margin-top: 393px;
   object-fit: cover;
+}
+.hero-section-manageSales-footer {
+  height: 320px;
+  width: 109%;
+  background-color: rgba(19, 19, 19, 1);
+
+  margin-top: 482px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-section-manageSales-footer-items {
+  display: flex;
+  list-style: none;
+}
+.hero-section-manageSales-footer-items li {
+  font-size: 14px;
+  margin-right: 66px;
+  color: rgba(250, 250, 250, 1);
 }
