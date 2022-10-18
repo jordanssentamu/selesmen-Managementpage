@@ -41,4 +41,17 @@ body {
   width: 447px;
   display: flex;
   list-style: none;
+  gap: 40px;
+  margin-right: 227px;
+}
+.navigation-section-list li {
+  color: rgba(19, 19, 19, 1);
+  font-weight: 500;
+  letter-spacing: 2%;
+  line-height: 20px;
+}
+.navigation-section-list li a {
+  text-decoration: none;
+  color: rgba(19, 19, 19, 1);
+  font-weight: 500;
 }
