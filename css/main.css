@@ -125,3 +125,12 @@ body {
   opacity: 60%;
   left: 202px;
 }
+.hero-section-manageSales-button {
+  position: absolute;
+  height: 56px;
+  width: 256px;
+  left: 393px;
+  top: 395px;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(19, 19, 19, 1);
+}
