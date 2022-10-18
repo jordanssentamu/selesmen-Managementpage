@@ -162,3 +162,12 @@ body {
   left: 943px;
   top: 292px;
 }
+.hero-section-manageSales-mainimg {
+  height: 688px;
+  width: 1088px;
+  /* left: 212px;
+top: 648px;
+border-radius: 0px; */
+  margin-top: 393px;
+  object-fit: cover;
+}
