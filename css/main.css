@@ -351,3 +351,14 @@ body {
   height: 1184px;
   width: 100%;
 }
+.main-section-sales_management-heading {
+  height: 148px;
+  width: 788px;
+  font-size: 60px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 72px;
+  text-align: center;
+  color: rgba(19, 19, 19, 1);
+  margin-left: 137px;
+}
