@@ -408,4 +408,10 @@ body {
   line-height: 40px;
   letter-spacing: 2%;
   opacity: 60%;
+  margin-bottom: 52px;
+}
+.management-strategizes-watch-button-container {
+  height: 56px;
+  width: 368px;
+  display: flex;
 }
