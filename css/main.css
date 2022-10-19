@@ -346,3 +346,8 @@ body {
 .wrapper-list li ol {
   list-style: square;
 }
+/* other plus main div */
+.main-section-sales_management-section {
+  height: 1184px;
+  width: 100%;
+}
