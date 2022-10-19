@@ -297,3 +297,11 @@ body {
 .special-text2 {
   color: rgba(7, 161, 13, 1);
 }
+/* moredetail wrapper */
+.main-section-platform-moredetails-wrapper {
+  height: 516px;
+  width: 632px;
+  /* left: 780px;
+top: 486px;
+border-radius: 0px; */
+}
