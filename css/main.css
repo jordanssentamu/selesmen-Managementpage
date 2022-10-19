@@ -482,3 +482,19 @@ body {
   height: 248px;
   width: 372px;
 }
+.main-section-priceplan {
+  height: 948px;
+  width: 100%;
+  color: rgba(19, 19, 19, 1);
+}
+.main-section-priceplan-heading {
+  height: 80px;
+  width: 624px;
+  text-align: center;
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 72px;
+  margin-left: 215px;
+  margin-top: 16px;
+}
