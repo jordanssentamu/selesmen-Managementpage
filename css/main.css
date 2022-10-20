@@ -652,7 +652,6 @@ body {
 .main-section-priceplan-business-wrapper2-1 {
   height: 404px;
   width: 557px;
-
   color: white;
   padding-top: 36px;
   background-color: rgba(19, 19, 19, 1);
@@ -712,3 +711,8 @@ body {
   margin-top: 24px;
 }
 /* more main section */
+.main-section-start-management-sales {
+  height: 724px;
+  width: 100%;
+  padding-top: 32px;
+}
